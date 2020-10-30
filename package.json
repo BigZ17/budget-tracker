@@ -1,0 +1,23 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "to track ones budget",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigZ17/budget-tracker.git"
+  },
+  "keywords": [
+    "Budget"
+  ],
+  "author": "Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigZ17/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/BigZ17/budget-tracker#readme"
+}
